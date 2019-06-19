@@ -1,4 +1,4 @@
-﻿token=NTkwODU0MDg3NTI5MjAxNjY2.XQoSZA.5lQp0r9wy5_vo7XWTuQmo-vKWNQ
+token=NTkwODU0MDg3NTI5MjAxNjY2.XQoSZA.5lQp0r9wy5_vo7XWTuQmo-vKWNQ
 owner=476188949291991060
 prefix=/
 game=test
